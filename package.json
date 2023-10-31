@@ -1,0 +1,42 @@
+{
+  "name": "testing",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.0",
+    "@chakra-ui/react": "^2.8.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@hypertheme-editor/chakra-ui": "^0.1.6-rc.0",
+    "apexcharts": "^3.41.0",
+    "axios": "^0.27.2",
+    "framer-motion": "^10.13.0",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "react-apexcharts": "^1.4.1",
+    "react-calendar": "^4.4.0",
+    "react-custom-scrollbars-2": "^4.5.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-icons": "^4.10.1",
+    "react-infinite-scroller": "^1.2.6",
+    "react-query": "^3.39.3",
+    "react-router-dom": "6",
+    "react-table": "^7.8.0",
+    "socket.io-client": "^4.7.2",
+    "zustand": "^4.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.1.0",
+    "vite": "^4.4.6"
+  }
+}
